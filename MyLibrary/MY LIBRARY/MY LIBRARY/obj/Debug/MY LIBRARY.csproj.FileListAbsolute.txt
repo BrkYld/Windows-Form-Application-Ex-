@@ -1,0 +1,22 @@
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\bin\Debug\MY LIBRARY.exe.config
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\bin\Debug\MY LIBRARY.exe
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\bin\Debug\MY LIBRARY.pdb
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY LIBRARY.csprojAssemblyReference.cache
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.Properties.Resources.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY LIBRARY.csproj.GenerateResource.cache
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY LIBRARY.exe
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY LIBRARY.pdb
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.PersonelGirisi.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.PersonelEkranı.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.islemForm.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.yeniOgrForm.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.sifreDegis.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.kayıtEkran.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.kisiEkle.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.kitapEkle.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.türEkle.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.yayınEkle.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.yazar_Ekle.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.islemKayıt.resources
+C:\Users\Yıldırım\source\repos\MY LIBRARY\MY LIBRARY\obj\Debug\MY_LIBRARY.islemİade.resources
